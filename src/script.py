@@ -3,3 +3,5 @@ def hello():
     
 def test():
     print(test)
+def pipa():
+    print('popa')
